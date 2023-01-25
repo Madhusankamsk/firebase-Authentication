@@ -3,15 +3,14 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-        apiKey: "AIzaSyCeu67ShDQZUhAwJGbrJVF92UXcRYWgGzA",
-        authDomain: "petty-island-99a58.firebaseapp.com",
-        databaseURL: "https://petty-island-99a58-default-rtdb.firebaseio.com",
-        projectId: "petty-island-99a58",
-        storageBucket: "petty-island-99a58.appspot.com",
-        messagingSenderId: "504792261884",
-        appId: "1:504792261884:web:7faf849ea78d1dd7572379",
-        measurementId: "G-68PVMQL7K1"
-      };
+  apiKey: "AIzaSyCCF1KvlQrQ8peeC7DluD4NLYXtTfEHrbA",
+  authDomain: "final-project-44258.firebaseapp.com",
+  projectId: "final-project-44258",
+  storageBucket: "final-project-44258.appspot.com",
+  messagingSenderId: "307486367069",
+  appId: "1:307486367069:web:a7f816f3ce820fb1d69cb4",
+  measurementId: "G-5VCT33LHFB"
+};
 
 let app;
 

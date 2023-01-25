@@ -48,7 +48,7 @@ const LoginScreen = () => {
             <Text style={{fontWeight:'bold',fontSize:22}} >Login</Text>
         </TouchableOpacity>
         <TouchableOpacity
-            onPress={()=>navigation.navigate("HomeScreen")}
+            onPress={()=>navigation.navigate("Register")}
             style = {{marginTop:20}}
         >
             <Text style={{fontWeight:'bold',fontSize:16}} >
